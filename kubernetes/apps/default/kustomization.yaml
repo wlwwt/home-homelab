@@ -6,3 +6,4 @@ resources:
   - ./echo-server/ks.yaml
   - ./hajimari/ks.yaml
   - ./isinfinder-api-fastapi/ks.yaml
+  - ./isinfinder-scraper-python/ks.yaml
