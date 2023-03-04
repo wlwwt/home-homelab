@@ -30,7 +30,7 @@ spec:
       strategy: RollingUpdate
     image:
       repository: ghcr.io/wlwwt/isinfinder-api-fastapi
-      tag: 0.3.2@sha256:dd0de5bb56ae39ab232b469c8295e234d942e11380f1396bdfe4b09cd797449e
+      tag: 0.3.4@sha256:96ae20fb5c4d026069025bf39ee243d26564c35af17c1442cfc919195ad44111
     service:
       main:
         ports:
